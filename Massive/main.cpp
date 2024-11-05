@@ -2,8 +2,8 @@
 int main()
 {
 	sf::RenderWindow window(sf::VideoMode(500, 500), "Massive");
-	const int n = 10;  // размерность матрицы
-	const int cellSize = 50;  // размер одной ячейки
+	const int n = 10;  // Г°Г Г§Г¬ГҐГ°Г­Г®Г±ГІГј Г¬Г ГІГ°ГЁГ¶Г»
+	const int cellSize = 50;  // Г°Г Г§Г¬ГҐГ° Г®Г¤Г­Г®Г© ГїГ·ГҐГ©ГЄГЁ
 	sf::RectangleShape cells[n][n];
 	for (int i = 0; i < n; ++i) {
 		for (int j = 0; j < n; ++j) {
