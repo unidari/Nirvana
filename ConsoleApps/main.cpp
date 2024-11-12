@@ -1,46 +1,47 @@
-#include <iostream>
-#include <set>
+#include<iostream>   
+#include<array>
 #include <locale>
-#include <algorithm>
 using namespace std;
 
-int main() {
+int main()
+{
 	setlocale(LC_ALL, "Russian");
-	set<int> A;
-	set<int> B;
-	// Ââîä ïåðâîãî ìíîæåñòâà
-	cout << "Ââåäèòå êîëè÷åñòâî ýëåìåíòîâ â ïåðâîì ìíîæåñòâå ";
-	int N1;
-	cin >> N1;
-	cout << std::endl;
-	cout << "Ââåäèòå ýëåìåíòû äëÿ ïåðâîãî ìíîæåñòâà ";
-	for (int i = 0; i < N1; i++) {
-		int char1;
-		cin >> char1;
-		A.insert(char1);
+	array <int, 5> massive_A{};
+	array <int, 5> massive_B{};
+	cout << "������� �������� ��� ������� A ";
+	for (int i = 0; i < massive_A.size(); i++) {
+		cin >> massive_A[i];
 	}
-	cout << std::endl;
-	cout << std::endl;
-	// Ââîä âòîðîãî ìíîæåñòâà
-	cout << "Ââåäèòå êîëè÷åñòâî ýëåìåíòîâ âî âòîðîì ìíîæåñòâå ";
-	int N2;
-	cin >> N2;
-	cout << std::endl;
-	cout << "Ââåäèòå ýëåìåíòû äëÿ âòîðîãî ìíîæåñòâà ";
-	for (int i = 0; i < N2; i++) {
-		int char2;
-		cin >> char2;
-		B.insert(char2);
+	cout << "������� �������� ��� ������� B ";
+	for (int i = 0; i < massive_B.size(); i++) {
+		cin >> massive_B[i];
 	}
-	//
-	set<int> unionSet;
-	set_union(A.begin(), A.end(), B.begin(), B.end(), inserter(unionSet, unionSet.begin()));
-	cout << "Ìíîæåñòâî, ñîñòîÿùåå èç ýëåìåíòîâ, êîòîðûå ïðèñóòñòâóþò õîòÿ áû â îäíîì èç ìíîæåñòâ è ÿâëÿþòñÿ íå÷åòíûìè ÷èñëàìè ";
-	cout << std::endl;
-	for (const int& element : unionSet) {
-		if (element % 2 != 0) {
-			cout << element << " ";}
+	cout << "�������� ������� A ";
+	for (int i : massive_A) {
+		cout << i << " ";
 	}
-	cout << std::endl;
+	cout << endl;
+	cout << "�������� ������� B ";
+	for (int i : massive_B) {
+		cout << i << " ";
+	}
+	int minimum_A;
+	minimum_A = *min_element(begin(massive_A), end(massive_A));
+	int minimum_B;
+	minimum_B = *min_element(begin(massive_B), end(massive_B));
+	for (int i = 0; i < 5; i++) {
+		massive_A[i] = massive_A[i] + minimum_A;
+		massive_B[i] = massive_B[i] + minimum_B;
+	}
+	cout << endl;
+	cout << "��������������� ������ A ";
+	for (int i = 0; i < 5; i++) {
+		cout << massive_A[i] << " ";
+	}
+	cout << endl;
+	cout << "��������������� ������ B ";
+	for (int i = 0; i < 5; i++) {
+		cout << massive_B[i] << " ";
+	}
 	return 0;
 }
