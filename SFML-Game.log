@@ -1,0 +1,35 @@
+﻿  GameScene.cpp
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,97): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,97): warning C4244:         with
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,97): warning C4244:         [
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,97): warning C4244:             T=float
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,97): warning C4244:         ]
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,79): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,79): warning C4244:         with
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,79): warning C4244:         [
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,79): warning C4244:             T=float
+C:\Users\user\Desktop\Новая папка\GameScene.cpp(84,79): warning C4244:         ]
+  GameView.cpp
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244:         with
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244:         [
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244:             T=int
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244:         ]
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244:         and
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244:         [
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244:             T=float
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,75): warning C4244:         ]
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244: аргумент: преобразование "const T" в "T", возможна потеря данных
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244:         with
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244:         [
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244:             T=int
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244:         ]
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244:         and
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244:         [
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244:             T=float
+C:\Users\user\Desktop\Новая папка\GameView.cpp(15,61): warning C4244:         ]
+  SFML-Game.cpp
+  tinyxml2.cpp
+  TmxLevel.cpp
+  Создание кода...
+  SFML-Game.vcxproj -> C:\Users\user\Desktop\Новая папка\x64\Debug\SFML-Game.exe
