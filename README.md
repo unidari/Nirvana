@@ -1,1 +1,1 @@
-![alt text](https://yandex.ru/images/search?img_url=https%3A%2F%2Fimages.scrolller.com%2Fpico%2Fim-bad-at-talking-so-heres-something-i-made-in-ucmj8sixqs.jpg&lr=21621&p=2&pos=4&rpt=simage&text=кот%20мем)
+![alt text](https://yandex.ru/images/search?img_url=https%3A%2F%2Fampravda.ru%2Ffiles%2Fimages2%2Fimages%2Fmeetissai-photos-chats-bizarres-sculptures-19.jpg&lr=21621&p=2&pos=10&rpt=simage&text=кот%20мем)
