@@ -1,1 +1,1 @@
-![alt text](https://yandex.ru/images/search?cbir_id=1907185%2FV9_C5ySma1sZfh0P1h2v5A1424&cbir_page=similar&cbird=178&img_url=https%3A%2F%2Fi.ytimg.com%2Fvi%2FjqZZF6ZE-Gg%2Fmaxresdefault.jpg%3Fsqp%3D-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXyhOMA8%3D%26rs%3DAOn4CLDcVMTruivJkph_q62nnLGkmv8TXQ&lr=21621&pos=13&rpt=imageview&text=кот%20мем&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F1907185%2FV9_C5ySma1sZfh0P1h2v5A1424%2Forig)
+![alt text](https://img.ifunny.co/images/39de19d116d68e2190ac007fc577485f3dfafd77c9dcd90ed79b867807a66a9a_1.jpg)
