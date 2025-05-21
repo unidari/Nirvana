@@ -1,1 +1,1 @@
-<video src='(https://yandex.ru/search/?text=%3Ciframe+src%3D%22https%3A%2F%2Fvk.com%2Fvideo_ext.php%3Foid%3D-154906069%26id%3D456244952%26hd%3D2%26autoplay%3D1%22+width%3D%22853%22+height%3D%22480%22+allow%3D%22autoplay%3B+encrypted-media%3B+fullscreen%3B+picture-in-picture%3B+screen-wake-lock%3B%22+frameborder%3D%220%22+allowfullscreen%3E%3C%2Fiframe%3E&clid=2506513&banerid=6300000000%3A66f83c727e98367637d231c9&win=661&lr=21621)' width=180/>
+![alt text]([http://url/to/img.png](https://i.pinimg.com/736x/7c/22/a3/7c22a3fd9effd18ba1810fca3206b88b.jpg))
