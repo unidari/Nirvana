@@ -6,7 +6,7 @@ def findFirst(nums, target):
         mid = (left + right) // 2
         if nums[mid] == target:
             first_occurrence = mid
-            right = mid - 1  # Продолжаем искать в левой части
+            right = mid - 1  
         elif nums[mid] < target:
             left = mid + 1
         else:
@@ -23,7 +23,7 @@ def findLast(nums, target):
         mid = (left + right) // 2
         if nums[mid] == target:
             last_occurrence = mid
-            left = mid + 1  # Продолжаем искать в правой части
+            left = mid + 1  
         elif nums[mid] < target:
             left = mid + 1
         else:
